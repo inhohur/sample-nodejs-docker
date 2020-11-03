@@ -1,5 +1,5 @@
 1. feature-a
-2. feature-b, feature-b-2, feature-b-3, 4, 5
+2. feature-b, feature-b-2, feature-b-3, 4, 5, 6
 
 
 # sample-nodejs-docker
